@@ -1,0 +1,25 @@
+---
+title: "Khang Quach, Data Analyst and Cognitive Scientist"
+toc: true
+toc-location: left
+---
+# About me
+Hello! I am a First-generation Vietnamese Cognitive Scientist, attending UCSD. My work focuses on analyzing human decision-making under different neurological and psychiatric conditions to address how to better support people with diverse cognitive profiles.
+
+
+# Background
+::: {layout-ncol=2}
+[](Test1.jpg)
+
+[](Test2.jpg)
+:::
+Raised in the post-war Vietnam Era, my Vietnamese parents didn't believe in neurodevelopment diagnoses like autism. Immigrating to the US at an early age, I struggled with communication and social cues. My condition caused me to navigate social interactions differently from my peers.  
+
+Growing up and meeting more people, my autism decreased. Now as an adult whose childhood was heavily influenced by autism, I wondered how people perceive, interpret, and make decisions under such a cognitive profile and other conditions. This curiosity led me into Cognitive Science and Data analysis, as I explore the mechanisms behind human behavior.
+
+# Education
+![](UCSDbanner.jpg)
+
+I currently attend at University of California, San Diego, pursuing a bachelor degree in Cognitive Science with specialization in Machine Learning and Neurocomputation.  
+
+My coursework involves: Data Science, Computational Neuroscience and Theories, Neural Data visualization, Neuroanatomy and Neuro Systems, and Machine Learning implementation.
