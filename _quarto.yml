@@ -1,8 +1,11 @@
 project:
   type: website
+  resources:
+    - CNAME
 
 website:
   title: "Khang Quach - Data Analyst and Cognitive Scientist"
+  site-url: https://khangquach.com
   navbar:
     left:
       - href: index.qmd
